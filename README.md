@@ -16,6 +16,6 @@
 - In the course selection system, right-click and select "Check"
 - Select "Network" and press "CTRL+ R" to reload
 - Open the "LoadJhnCourseInfo. Do?_= XXXXXXX "file: find "Request URL" and "Cookie" in Headers and fill in" XK.py "file
-## 3. Set your intention of course-choosing in 'xk.py' (the course_ids, acceptable campus campus)
+## 3. Set your intention of course-choosing in 'xk.py' (course_ids, campus)
 ## 4. Run the "xk.py" file
 ## 5. A pop-up message appears on the screen when there are vacancies for the specified course
